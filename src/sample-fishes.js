@@ -1,82 +1,56 @@
 // This is just some sample data so you don't have to think of your own!
 const fishes = {
   fish1: {
-    name: "Pacific Halibut",
-    image: "/images/hali.jpg",
+    name: "Slitherskin Mackerel",
+    image: "/images/slitherskinMackerel.png",
     desc:
-      "Everyones favorite white fish. We will cut it to the size you need and ship it.",
+      "Restores 58 health over 18 sec. The Slitherskin Mackerel is a tasty fish once cooked.",
     price: 1724,
     status: "available"
   },
 
   fish2: {
-    name: "Lobster",
-    image: "/images/lobster.jpg",
+    name: "Longjaw Mud Snapper",
+    image: "/images/longjawMudSnapper.png",
     desc:
-      "These tender, mouth-watering beauties are a fantastic hit at any dinner party.",
+      "Pride of the Tauren, Ships straight from Mulgore",
     price: 3200,
     status: "available"
   },
 
   fish3: {
-    name: "Sea Scallops",
-    image: "/images/scallops.jpg",
+    name: "Bristle Whisker Catfish",
+    image: "/images/BristleWhiskerCatfish.png",
     desc:
-      "Big, sweet and tender. True dry-pack scallops from the icey waters of Alaska. About 8-10 per pound",
+      "Shipped in Fresh from Redridge Mountains, A favorite of the Famous John J. Keeshan",
     price: 1684,
     status: "unavailable"
   },
 
   fish4: {
-    name: "Mahi Mahi",
-    image: "/images/mahi.jpg",
+    name: "Raw Rockscale Cod",
+    image: "/images/RawRockscaleCod.png",
     desc:
-      "Lean flesh with a mild, sweet flavor profile, moderately firm texture and large, moist flakes. ",
+      "The Pride of Stranglethorn, Only without all the Basilisks.",
     price: 1129,
     status: "available"
   },
 
   fish5: {
-    name: "King Crab",
-    image: "/images/crab.jpg",
+    name: "Zangar Trout",
+    image: "/images/zangarTrout.png",
     desc:
-      "Crack these open and enjoy them plain or with one of our cocktail sauces",
+      "A Delicacy of Zangarmarsh, shipped through the Dark Portal for your consumption",
     price: 4234,
     status: "available"
   },
 
   fish6: {
-    name: "Atlantic Salmon",
-    image: "/images/salmon.jpg",
+    name: "Ice Fin Fillet",
+    image: "/images/iceFinFillet.png",
     desc:
-      "This flaky, oily salmon is truly the king of the sea. Bake it, grill it, broil it...as good as it gets!",
+      "Best Served Cold, This Northrend Dish is sure to freeze your appitite,",
     price: 1453,
-    status: "available"
-  },
-
-  fish7: {
-    name: "Oysters",
-    image: "/images/oysters.jpg",
-    desc: "A soft plump oyster with a sweet salty flavor and a clean finish.",
-    price: 2543,
-    status: "available"
-  },
-
-  fish8: {
-    name: "Mussels",
-    image: "/images/mussels.jpg",
-    desc:
-      "The best mussels from the Pacific Northwest with a full-flavored and complex taste.",
-    price: 425,
-    status: "available"
-  },
-
-  fish9: {
-    name: "Jumbo Prawns",
-    image: "/images/prawns.jpg",
-    desc:
-      "With 21-25 two bite prawns in each pound, these sweet morsels are perfect for shish-kabobs.",
-    price: 2250,
     status: "available"
   }
 };
