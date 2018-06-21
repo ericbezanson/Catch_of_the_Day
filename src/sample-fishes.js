@@ -2,55 +2,53 @@
 const fishes = {
   fish1: {
     name: "Slitherskin Mackerel",
-    image: "/images/slitherskinMackerel.png",
+    image: "/images/slitherskinmackerel.jpg",
     desc:
       "Restores 58 health over 18 sec. The Slitherskin Mackerel is a tasty fish once cooked.",
-    price: 1724,
+    price: 699,
     status: "available"
   },
 
   fish2: {
     name: "Longjaw Mud Snapper",
-    image: "/images/longjawMudSnapper.png",
-    desc:
-      "Pride of the Tauren, Ships straight from Mulgore",
-    price: 3200,
+    image: "/images/longjawmudsnapper.jpg",
+    desc: "Pride of the Tauren, Ships straight from Mulgore.",
+    price: 1149,
     status: "available"
   },
 
   fish3: {
     name: "Bristle Whisker Catfish",
-    image: "/images/BristleWhiskerCatfish.png",
+    image: "/images/bristlewhiskercatfish.jpg",
     desc:
-      "Shipped in Fresh from Redridge Mountains, A favorite of the Famous John J. Keeshan",
-    price: 1684,
+      "Shipped in Fresh from Redridge Mountains, A favorite of the Famous John J. Keeshan.",
+    price: 1799,
     status: "unavailable"
   },
 
   fish4: {
     name: "Raw Rockscale Cod",
-    image: "/images/RawRockscaleCod.png",
-    desc:
-      "The Pride of Stranglethorn, Only without all the Basilisks.",
-    price: 1129,
+    image: "/images/rawrockscalecod.jpg",
+    desc: "The Pride of Stranglethorn, Only without all the Basilisks.",
+    price: 2300,
     status: "available"
   },
 
   fish5: {
     name: "Zangar Trout",
-    image: "/images/zangarTrout.png",
+    image: "/images/zangartrout.jpg",
     desc:
-      "A Delicacy of Zangarmarsh, shipped through the Dark Portal for your consumption",
-    price: 4234,
+      "A Delicacy of Zangarmarsh, shipped through the Dark Portal for your consumption.",
+    price: 2849,
     status: "available"
   },
 
   fish6: {
     name: "Ice Fin Fillet",
-    image: "/images/iceFinFillet.png",
+    image: "/images/icefinfillet.jpg",
     desc:
-      "Best Served Cold, This Northrend Dish is sure to freeze your appitite,",
-    price: 1453,
+      "Best Served Cold, This Northrend Dish is sure to freeze your appetite.",
+    price: 3150,
     status: "available"
   }
 };
